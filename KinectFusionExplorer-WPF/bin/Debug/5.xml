@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<Paciente xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Nombre />
+  <Apellidos />
+  <Edad>20</Edad>
+  <Masculino>true</Masculino>
+  <Id>5</Id>
+  <Altura>0</Altura>
+  <PerimetroCabeza>0</PerimetroCabeza>
+  <PerimetroCuello>0</PerimetroCuello>
+  <PerimetroPecho>0</PerimetroPecho>
+  <PerimetroCintura>0</PerimetroCintura>
+  <PerimetroCadera>0</PerimetroCadera>
+  <IndiceCaderaCintura>0</IndiceCaderaCintura>
+</Paciente>

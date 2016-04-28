@@ -1,0 +1,146 @@
+D:\Work\Software\Projects\KinectTutos\Kinect2\test\KinectFusionExplorer-WPF\bin\Debug\KinectFusionExplorer-WPF.exe
+D:\Work\Software\Projects\KinectTutos\Kinect2\test\KinectFusionExplorer-WPF\bin\Debug\KinectFusionExplorer-WPF.pdb
+D:\Work\Software\Projects\KinectTutos\Kinect2\test\KinectFusionExplorer-WPF\bin\Debug\Microsoft.Kinect.dll
+D:\Work\Software\Projects\KinectTutos\Kinect2\test\KinectFusionExplorer-WPF\bin\Debug\Microsoft.Kinect.Fusion.dll
+D:\Work\Software\Projects\KinectTutos\Kinect2\test\KinectFusionExplorer-WPF\bin\Debug\Microsoft.Kinect.Fusion.pdb
+D:\Work\Software\Projects\KinectTutos\Kinect2\test\KinectFusionExplorer-WPF\bin\Debug\Microsoft.Kinect.xml
+D:\Work\Software\Projects\KinectTutos\Kinect2\test\KinectFusionExplorer-WPF\obj\Debug\KinectFusionExplorer-WPF.csprojResolveAssemblyReference.cache
+D:\Work\Software\Projects\KinectTutos\Kinect2\test\KinectFusionExplorer-WPF\obj\Debug\MainWindow.g.cs
+D:\Work\Software\Projects\KinectTutos\Kinect2\test\KinectFusionExplorer-WPF\obj\Debug\App.g.cs
+D:\Work\Software\Projects\KinectTutos\Kinect2\test\KinectFusionExplorer-WPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Work\Software\Projects\KinectTutos\Kinect2\test\KinectFusionExplorer-WPF\obj\Debug\KinectFusionExplorer-WPF_MarkupCompile.cache
+D:\Work\Software\Projects\KinectTutos\Kinect2\test\KinectFusionExplorer-WPF\obj\Debug\KinectFusionExplorer-WPF_MarkupCompile.lref
+D:\Work\Software\Projects\KinectTutos\Kinect2\test\KinectFusionExplorer-WPF\obj\Debug\MainWindow.baml
+D:\Work\Software\Projects\KinectTutos\Kinect2\test\KinectFusionExplorer-WPF\obj\Debug\KinectFusionExplorer-WPF.g.resources
+D:\Work\Software\Projects\KinectTutos\Kinect2\test\KinectFusionExplorer-WPF\obj\Debug\Microsoft.Samples.Kinect.KinectFusionExplorer.Properties.Resources.resources
+D:\Work\Software\Projects\KinectTutos\Kinect2\test\KinectFusionExplorer-WPF\obj\Debug\KinectFusionExplorer-WPF.csproj.GenerateResource.Cache
+D:\Work\Software\Projects\KinectTutos\Kinect2\test\KinectFusionExplorer-WPF\obj\Debug\KinectFusionExplorer-WPF.exe
+D:\Work\Software\Projects\KinectTutos\Kinect2\test\KinectFusionExplorer-WPF\obj\Debug\KinectFusionExplorer-WPF.pdb
+D:\Work\LICSU\LIcsu\10012016\Fusion 2\KinectFusionExplorer-WPF\obj\Debug\KinectFusionExplorer-WPF.exe
+D:\Work\LICSU\LIcsu\10012016\Fusion 2\KinectFusionExplorer-WPF\obj\Debug\KinectFusionExplorer-WPF.pdb
+D:\Work\LICSU\LIcsu\10012016\Fusion 2\KinectFusionExplorer-WPF\bin\Debug\KinectFusionExplorer-WPF.exe
+D:\Work\LICSU\LIcsu\10012016\Fusion 2\KinectFusionExplorer-WPF\bin\Debug\KinectFusionExplorer-WPF.pdb
+D:\Work\LICSU\LIcsu\10012016\Fusion 2\KinectFusionExplorer-WPF\bin\Debug\Microsoft.Kinect.dll
+D:\Work\LICSU\LIcsu\10012016\Fusion 2\KinectFusionExplorer-WPF\bin\Debug\Microsoft.Kinect.Fusion.dll
+D:\Work\LICSU\LIcsu\10012016\Fusion 2\KinectFusionExplorer-WPF\bin\Debug\Microsoft.Kinect.Fusion.pdb
+D:\Work\LICSU\LIcsu\10012016\Fusion 2\KinectFusionExplorer-WPF\bin\Debug\Microsoft.Kinect.xml
+D:\Work\LICSU\LIcsu\10012016\Fusion 2\KinectFusionExplorer-WPF\obj\Debug\KinectFusionExplorer-WPF.csprojResolveAssemblyReference.cache
+D:\Work\LICSU\LIcsu\10012016\Fusion 2\KinectFusionExplorer-WPF\obj\Debug\MainWindow.g.cs
+D:\Work\LICSU\LIcsu\10012016\Fusion 2\KinectFusionExplorer-WPF\obj\Debug\App.g.cs
+D:\Work\LICSU\LIcsu\10012016\Fusion 2\KinectFusionExplorer-WPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Work\LICSU\LIcsu\10012016\Fusion 2\KinectFusionExplorer-WPF\obj\Debug\KinectFusionExplorer-WPF_MarkupCompile.cache
+D:\Work\LICSU\LIcsu\10012016\Fusion 2\KinectFusionExplorer-WPF\obj\Debug\KinectFusionExplorer-WPF_MarkupCompile.lref
+D:\Work\LICSU\LIcsu\10012016\Fusion 2\KinectFusionExplorer-WPF\obj\Debug\MainWindow.baml
+D:\Work\LICSU\LIcsu\10012016\Fusion 2\KinectFusionExplorer-WPF\obj\Debug\KinectFusionExplorer-WPF.g.resources
+D:\Work\LICSU\LIcsu\10012016\Fusion 2\KinectFusionExplorer-WPF\obj\Debug\Microsoft.Samples.Kinect.KinectFusionExplorer.Properties.Resources.resources
+D:\Work\LICSU\LIcsu\10012016\Fusion 2\KinectFusionExplorer-WPF\obj\Debug\KinectFusionExplorer-WPF.csproj.GenerateResource.Cache
+H:\Fusion 2\KinectFusionExplorer-WPF\obj\Debug\KinectFusionExplorer-WPF.exe
+H:\Fusion 2\KinectFusionExplorer-WPF\obj\Debug\KinectFusionExplorer-WPF.pdb
+C:\Users\Wilber\Desktop\Fusion 2\KinectFusionExplorer-WPF\obj\Debug\KinectFusionExplorer-WPF.exe
+C:\Users\Wilber\Desktop\Fusion 2\KinectFusionExplorer-WPF\obj\Debug\KinectFusionExplorer-WPF.pdb
+C:\Users\Wilber\Desktop\Fusion 2\KinectFusionExplorer-WPF\bin\Debug\KinectFusionExplorer-WPF.exe
+C:\Users\Wilber\Desktop\Fusion 2\KinectFusionExplorer-WPF\bin\Debug\KinectFusionExplorer-WPF.pdb
+C:\Users\Wilber\Desktop\Fusion 2\KinectFusionExplorer-WPF\bin\Debug\Microsoft.Kinect.dll
+C:\Users\Wilber\Desktop\Fusion 2\KinectFusionExplorer-WPF\bin\Debug\Microsoft.Kinect.Fusion.dll
+C:\Users\Wilber\Desktop\Fusion 2\KinectFusionExplorer-WPF\bin\Debug\Microsoft.Kinect.Fusion.pdb
+C:\Users\Wilber\Desktop\Fusion 2\KinectFusionExplorer-WPF\bin\Debug\Microsoft.Kinect.xml
+C:\Users\Wilber\Desktop\Fusion 2\KinectFusionExplorer-WPF\obj\Debug\KinectFusionExplorer-WPF.csprojResolveAssemblyReference.cache
+C:\Users\Wilber\Desktop\Fusion 2\KinectFusionExplorer-WPF\obj\Debug\MainWindow.g.cs
+C:\Users\Wilber\Desktop\Fusion 2\KinectFusionExplorer-WPF\obj\Debug\App.g.cs
+C:\Users\Wilber\Desktop\Fusion 2\KinectFusionExplorer-WPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Wilber\Desktop\Fusion 2\KinectFusionExplorer-WPF\obj\Debug\KinectFusionExplorer-WPF_MarkupCompile.cache
+C:\Users\Wilber\Desktop\Fusion 2\KinectFusionExplorer-WPF\obj\Debug\KinectFusionExplorer-WPF_MarkupCompile.lref
+C:\Users\Wilber\Desktop\Fusion 2\KinectFusionExplorer-WPF\obj\Debug\MainWindow.baml
+C:\Users\Wilber\Desktop\Fusion 2\KinectFusionExplorer-WPF\obj\Debug\KinectFusionExplorer-WPF.g.resources
+C:\Users\Wilber\Desktop\Fusion 2\KinectFusionExplorer-WPF\obj\Debug\Microsoft.Samples.Kinect.KinectFusionExplorer.Properties.Resources.resources
+C:\Users\Wilber\Desktop\Fusion 2\KinectFusionExplorer-WPF\obj\Debug\KinectFusionExplorer-WPF.csproj.GenerateResource.Cache
+C:\Users\Wilber\Desktop\ultimo\RepositorioKinectVol\RepoCloned\Fusion 2\KinectFusionExplorer-WPF\obj\Debug\KinectFusionExplorer-WPF.exe
+C:\Users\Wilber\Desktop\ultimo\RepositorioKinectVol\RepoCloned\Fusion 2\KinectFusionExplorer-WPF\obj\Debug\KinectFusionExplorer-WPF.pdb
+C:\Users\ulloa.INTRANET\Desktop\ultimo\RepositorioKinectVol\RepoCloned\Fusion 2\KinectFusionExplorer-WPF\obj\Debug\KinectFusionExplorer-WPF.exe
+C:\Users\ulloa.INTRANET\Desktop\ultimo\RepositorioKinectVol\RepoCloned\Fusion 2\KinectFusionExplorer-WPF\obj\Debug\KinectFusionExplorer-WPF.pdb
+C:\Users\ulloa.INTRANET\Desktop\ultimo\RepositorioKinectVol\RepoCloned\Fusion 2\KinectFusionExplorer-WPF\bin\Debug\KinectFusionExplorer-WPF.exe
+C:\Users\ulloa.INTRANET\Desktop\ultimo\RepositorioKinectVol\RepoCloned\Fusion 2\KinectFusionExplorer-WPF\bin\Debug\KinectFusionExplorer-WPF.pdb
+C:\Users\ulloa.INTRANET\Desktop\ultimo\RepositorioKinectVol\RepoCloned\Fusion 2\KinectFusionExplorer-WPF\bin\Debug\Microsoft.Kinect.dll
+C:\Users\ulloa.INTRANET\Desktop\ultimo\RepositorioKinectVol\RepoCloned\Fusion 2\KinectFusionExplorer-WPF\bin\Debug\Microsoft.Kinect.Fusion.dll
+C:\Users\ulloa.INTRANET\Desktop\ultimo\RepositorioKinectVol\RepoCloned\Fusion 2\KinectFusionExplorer-WPF\bin\Debug\Microsoft.Kinect.Fusion.pdb
+C:\Users\ulloa.INTRANET\Desktop\ultimo\RepositorioKinectVol\RepoCloned\Fusion 2\KinectFusionExplorer-WPF\bin\Debug\Microsoft.Kinect.xml
+C:\Users\ulloa.INTRANET\Desktop\ultimo\RepositorioKinectVol\RepoCloned\Fusion 2\KinectFusionExplorer-WPF\obj\Debug\KinectFusionExplorer-WPF.csprojResolveAssemblyReference.cache
+C:\Users\ulloa.INTRANET\Desktop\ultimo\RepositorioKinectVol\RepoCloned\Fusion 2\KinectFusionExplorer-WPF\obj\Debug\MainWindow.g.cs
+C:\Users\ulloa.INTRANET\Desktop\ultimo\RepositorioKinectVol\RepoCloned\Fusion 2\KinectFusionExplorer-WPF\obj\Debug\App.g.cs
+C:\Users\ulloa.INTRANET\Desktop\ultimo\RepositorioKinectVol\RepoCloned\Fusion 2\KinectFusionExplorer-WPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\ulloa.INTRANET\Desktop\ultimo\RepositorioKinectVol\RepoCloned\Fusion 2\KinectFusionExplorer-WPF\obj\Debug\KinectFusionExplorer-WPF_MarkupCompile.cache
+C:\Users\ulloa.INTRANET\Desktop\ultimo\RepositorioKinectVol\RepoCloned\Fusion 2\KinectFusionExplorer-WPF\obj\Debug\KinectFusionExplorer-WPF_MarkupCompile.lref
+C:\Users\ulloa.INTRANET\Desktop\ultimo\RepositorioKinectVol\RepoCloned\Fusion 2\KinectFusionExplorer-WPF\obj\Debug\MainWindow.baml
+C:\Users\ulloa.INTRANET\Desktop\ultimo\RepositorioKinectVol\RepoCloned\Fusion 2\KinectFusionExplorer-WPF\obj\Debug\KinectFusionExplorer-WPF.g.resources
+C:\Users\ulloa.INTRANET\Desktop\ultimo\RepositorioKinectVol\RepoCloned\Fusion 2\KinectFusionExplorer-WPF\obj\Debug\Microsoft.Samples.Kinect.KinectFusionExplorer.Properties.Resources.resources
+C:\Users\ulloa.INTRANET\Desktop\ultimo\RepositorioKinectVol\RepoCloned\Fusion 2\KinectFusionExplorer-WPF\obj\Debug\KinectFusionExplorer-WPF.csproj.GenerateResource.Cache
+C:\Users\Wilber\Desktop\ultimo\RepositorioKinectVol\RepoCloned\Fusion 2\KinectFusionExplorer-WPF\bin\Debug\KinectFusionExplorer-WPF.exe
+C:\Users\Wilber\Desktop\ultimo\RepositorioKinectVol\RepoCloned\Fusion 2\KinectFusionExplorer-WPF\bin\Debug\KinectFusionExplorer-WPF.pdb
+C:\Users\Wilber\Desktop\ultimo\RepositorioKinectVol\RepoCloned\Fusion 2\KinectFusionExplorer-WPF\bin\Debug\Microsoft.Kinect.dll
+C:\Users\Wilber\Desktop\ultimo\RepositorioKinectVol\RepoCloned\Fusion 2\KinectFusionExplorer-WPF\bin\Debug\Microsoft.Kinect.Fusion.dll
+C:\Users\Wilber\Desktop\ultimo\RepositorioKinectVol\RepoCloned\Fusion 2\KinectFusionExplorer-WPF\bin\Debug\Microsoft.Kinect.Fusion.pdb
+C:\Users\Wilber\Desktop\ultimo\RepositorioKinectVol\RepoCloned\Fusion 2\KinectFusionExplorer-WPF\bin\Debug\Microsoft.Kinect.xml
+C:\Users\Wilber\Desktop\ultimo\RepositorioKinectVol\RepoCloned\Fusion 2\KinectFusionExplorer-WPF\obj\Debug\KinectFusionExplorer-WPF.csprojResolveAssemblyReference.cache
+C:\Users\Wilber\Desktop\ultimo\RepositorioKinectVol\RepoCloned\Fusion 2\KinectFusionExplorer-WPF\obj\Debug\MainWindow.g.cs
+C:\Users\Wilber\Desktop\ultimo\RepositorioKinectVol\RepoCloned\Fusion 2\KinectFusionExplorer-WPF\obj\Debug\App.g.cs
+C:\Users\Wilber\Desktop\ultimo\RepositorioKinectVol\RepoCloned\Fusion 2\KinectFusionExplorer-WPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Wilber\Desktop\ultimo\RepositorioKinectVol\RepoCloned\Fusion 2\KinectFusionExplorer-WPF\obj\Debug\KinectFusionExplorer-WPF_MarkupCompile.cache
+C:\Users\Wilber\Desktop\ultimo\RepositorioKinectVol\RepoCloned\Fusion 2\KinectFusionExplorer-WPF\obj\Debug\KinectFusionExplorer-WPF_MarkupCompile.lref
+C:\Users\Wilber\Desktop\ultimo\RepositorioKinectVol\RepoCloned\Fusion 2\KinectFusionExplorer-WPF\obj\Debug\MainWindow.baml
+C:\Users\Wilber\Desktop\ultimo\RepositorioKinectVol\RepoCloned\Fusion 2\KinectFusionExplorer-WPF\obj\Debug\KinectFusionExplorer-WPF.g.resources
+C:\Users\Wilber\Desktop\ultimo\RepositorioKinectVol\RepoCloned\Fusion 2\KinectFusionExplorer-WPF\obj\Debug\Microsoft.Samples.Kinect.KinectFusionExplorer.Properties.Resources.resources
+C:\Users\Wilber\Desktop\ultimo\RepositorioKinectVol\RepoCloned\Fusion 2\KinectFusionExplorer-WPF\obj\Debug\KinectFusionExplorer-WPF.csproj.GenerateResource.Cache
+C:\Users\Wilber\Desktop\14-01\ultimo\RepositorioKinectVol\RepoCloned\Fusion 2\KinectFusionExplorer-WPF\obj\Debug\KinectFusionExplorer-WPF.exe
+C:\Users\Wilber\Desktop\14-01\ultimo\RepositorioKinectVol\RepoCloned\Fusion 2\KinectFusionExplorer-WPF\obj\Debug\KinectFusionExplorer-WPF.pdb
+C:\Users\Wilber\Desktop\14-01\ultimo\RepositorioKinectVol\RepoCloned\Fusion 2\KinectFusionExplorer-WPF\bin\Debug\KinectFusionExplorer-WPF.exe
+C:\Users\Wilber\Desktop\14-01\ultimo\RepositorioKinectVol\RepoCloned\Fusion 2\KinectFusionExplorer-WPF\bin\Debug\KinectFusionExplorer-WPF.pdb
+C:\Users\Wilber\Desktop\14-01\ultimo\RepositorioKinectVol\RepoCloned\Fusion 2\KinectFusionExplorer-WPF\bin\Debug\Microsoft.Kinect.dll
+C:\Users\Wilber\Desktop\14-01\ultimo\RepositorioKinectVol\RepoCloned\Fusion 2\KinectFusionExplorer-WPF\bin\Debug\Microsoft.Kinect.Fusion.dll
+C:\Users\Wilber\Desktop\14-01\ultimo\RepositorioKinectVol\RepoCloned\Fusion 2\KinectFusionExplorer-WPF\bin\Debug\Microsoft.Kinect.Fusion.pdb
+C:\Users\Wilber\Desktop\14-01\ultimo\RepositorioKinectVol\RepoCloned\Fusion 2\KinectFusionExplorer-WPF\bin\Debug\Microsoft.Kinect.xml
+C:\Users\Wilber\Desktop\14-01\ultimo\RepositorioKinectVol\RepoCloned\Fusion 2\KinectFusionExplorer-WPF\obj\Debug\KinectFusionExplorer-WPF.csprojResolveAssemblyReference.cache
+C:\Users\Wilber\Desktop\14-01\ultimo\RepositorioKinectVol\RepoCloned\Fusion 2\KinectFusionExplorer-WPF\obj\Debug\MainWindow.g.cs
+C:\Users\Wilber\Desktop\14-01\ultimo\RepositorioKinectVol\RepoCloned\Fusion 2\KinectFusionExplorer-WPF\obj\Debug\App.g.cs
+C:\Users\Wilber\Desktop\14-01\ultimo\RepositorioKinectVol\RepoCloned\Fusion 2\KinectFusionExplorer-WPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Wilber\Desktop\14-01\ultimo\RepositorioKinectVol\RepoCloned\Fusion 2\KinectFusionExplorer-WPF\obj\Debug\KinectFusionExplorer-WPF_MarkupCompile.cache
+C:\Users\Wilber\Desktop\14-01\ultimo\RepositorioKinectVol\RepoCloned\Fusion 2\KinectFusionExplorer-WPF\obj\Debug\KinectFusionExplorer-WPF_MarkupCompile.lref
+C:\Users\Wilber\Desktop\14-01\ultimo\RepositorioKinectVol\RepoCloned\Fusion 2\KinectFusionExplorer-WPF\obj\Debug\MainWindow.baml
+C:\Users\Wilber\Desktop\14-01\ultimo\RepositorioKinectVol\RepoCloned\Fusion 2\KinectFusionExplorer-WPF\obj\Debug\KinectFusionExplorer-WPF.g.resources
+C:\Users\Wilber\Desktop\14-01\ultimo\RepositorioKinectVol\RepoCloned\Fusion 2\KinectFusionExplorer-WPF\obj\Debug\Microsoft.Samples.Kinect.KinectFusionExplorer.Properties.Resources.resources
+C:\Users\Wilber\Desktop\14-01\ultimo\RepositorioKinectVol\RepoCloned\Fusion 2\KinectFusionExplorer-WPF\obj\Debug\KinectFusionExplorer-WPF.csproj.GenerateResource.Cache
+E:\Work\LICSU\Fusion 2\KinectFusionExplorer-WPF\obj\Debug\KinectFusionExplorer-WPF.exe
+E:\Work\LICSU\Fusion 2\KinectFusionExplorer-WPF\obj\Debug\KinectFusionExplorer-WPF.pdb
+H:\Fusion 2\KinectFusionExplorer-WPF\bin\Debug\KinectFusionExplorer-WPF.exe
+H:\Fusion 2\KinectFusionExplorer-WPF\bin\Debug\KinectFusionExplorer-WPF.pdb
+H:\Fusion 2\KinectFusionExplorer-WPF\bin\Debug\Microsoft.Kinect.dll
+H:\Fusion 2\KinectFusionExplorer-WPF\bin\Debug\Microsoft.Kinect.Fusion.dll
+H:\Fusion 2\KinectFusionExplorer-WPF\bin\Debug\Microsoft.Kinect.Fusion.pdb
+H:\Fusion 2\KinectFusionExplorer-WPF\bin\Debug\Microsoft.Kinect.xml
+H:\Fusion 2\KinectFusionExplorer-WPF\obj\Debug\KinectFusionExplorer-WPF.csprojResolveAssemblyReference.cache
+H:\Fusion 2\KinectFusionExplorer-WPF\obj\Debug\MainWindow.g.cs
+H:\Fusion 2\KinectFusionExplorer-WPF\obj\Debug\App.g.cs
+H:\Fusion 2\KinectFusionExplorer-WPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+H:\Fusion 2\KinectFusionExplorer-WPF\obj\Debug\KinectFusionExplorer-WPF_MarkupCompile.cache
+H:\Fusion 2\KinectFusionExplorer-WPF\obj\Debug\KinectFusionExplorer-WPF_MarkupCompile.lref
+H:\Fusion 2\KinectFusionExplorer-WPF\obj\Debug\MainWindow.baml
+H:\Fusion 2\KinectFusionExplorer-WPF\obj\Debug\KinectFusionExplorer-WPF.g.resources
+H:\Fusion 2\KinectFusionExplorer-WPF\obj\Debug\Microsoft.Samples.Kinect.KinectFusionExplorer.Properties.Resources.resources
+H:\Fusion 2\KinectFusionExplorer-WPF\obj\Debug\KinectFusionExplorer-WPF.csproj.GenerateResource.Cache
+C:\Users\ulloa\Desktop\Fusion 2\KinectFusionExplorer-WPF\obj\Debug\KinectFusionExplorer-WPF.exe
+C:\Users\ulloa\Desktop\Fusion 2\KinectFusionExplorer-WPF\obj\Debug\KinectFusionExplorer-WPF.pdb
+C:\Users\ulloa\Desktop\Fusion 2\KinectFusionExplorer-WPF\bin\Debug\KinectFusionExplorer-WPF.exe
+C:\Users\ulloa\Desktop\Fusion 2\KinectFusionExplorer-WPF\bin\Debug\KinectFusionExplorer-WPF.pdb
+C:\Users\ulloa\Desktop\Fusion 2\KinectFusionExplorer-WPF\bin\Debug\Microsoft.Kinect.dll
+C:\Users\ulloa\Desktop\Fusion 2\KinectFusionExplorer-WPF\bin\Debug\Microsoft.Kinect.Fusion.dll
+C:\Users\ulloa\Desktop\Fusion 2\KinectFusionExplorer-WPF\bin\Debug\Microsoft.Kinect.Fusion.pdb
+C:\Users\ulloa\Desktop\Fusion 2\KinectFusionExplorer-WPF\bin\Debug\Microsoft.Kinect.xml
+C:\Users\ulloa\Desktop\Fusion 2\KinectFusionExplorer-WPF\obj\Debug\KinectFusionExplorer-WPF.csprojResolveAssemblyReference.cache
+C:\Users\ulloa\Desktop\Fusion 2\KinectFusionExplorer-WPF\obj\Debug\MainWindow.g.cs
+C:\Users\ulloa\Desktop\Fusion 2\KinectFusionExplorer-WPF\obj\Debug\App.g.cs
+C:\Users\ulloa\Desktop\Fusion 2\KinectFusionExplorer-WPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\ulloa\Desktop\Fusion 2\KinectFusionExplorer-WPF\obj\Debug\KinectFusionExplorer-WPF_MarkupCompile.cache
+C:\Users\ulloa\Desktop\Fusion 2\KinectFusionExplorer-WPF\obj\Debug\KinectFusionExplorer-WPF_MarkupCompile.lref
+C:\Users\ulloa\Desktop\Fusion 2\KinectFusionExplorer-WPF\obj\Debug\MainWindow.baml
+C:\Users\ulloa\Desktop\Fusion 2\KinectFusionExplorer-WPF\obj\Debug\KinectFusionExplorer-WPF.g.resources
+C:\Users\ulloa\Desktop\Fusion 2\KinectFusionExplorer-WPF\obj\Debug\Microsoft.Samples.Kinect.KinectFusionExplorer.Properties.Resources.resources
+C:\Users\ulloa\Desktop\Fusion 2\KinectFusionExplorer-WPF\obj\Debug\KinectFusionExplorer-WPF.csproj.GenerateResource.Cache
